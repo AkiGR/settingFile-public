@@ -16,6 +16,7 @@ alias c='clear'
 alias v='vim'
 alias s='source'
 alias e='exit'
+alias a='lsd -l'
 
 # alias : git command
 alias g='git'
